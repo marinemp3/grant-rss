@@ -2,48 +2,41 @@ name: RSSフィード自動生成
 
 on:
   schedule:
-    # 中国時間の毎週金曜14時 = UTC 6時 (中国時間=UTC+8)
+    # 中国時間の毎週金曜14時 = UTC 6時
     - cron: '0 6 * * 5'
-  # 手動実行も可能にする
   workflow_dispatch:
 
-# 権限設定（重要）
 permissions:
   contents: write
-  pages: write
 
 jobs:
   generate-rss:
     runs-on: ubuntu-latest
     
     steps:
-      # 1. リポジトリをチェックアウト
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # トークンを明示的に指定（必要に応じて）
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      # 2. Pythonをセットアップ
       - name: Pythonをセットアップ
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
       
-      # 3. 依存ライブラリをインストール
       - name: 依存ライブラリをインストール
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      # 4. RSSフィードを生成
       - name: RSSフィードを生成
         run: |
           python generate_rss.py
+          # feed.xmlが存在するか確認
+          ls -la feed.xml || echo "feed.xmlが生成されていません"
       
-      # 5. 生成されたフィードをコミット・プッシュ
       - name: 変更をコミット・プッシュ
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -52,15 +45,32 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
+          # 現在のブランチを取得
+          CURRENT_BRANCH=$(git branch --show-current)
+          echo "現在のブランチ: $CURRENT_BRANCH"
+          
+          # feed.xmlが存在するか確認
+          if [ ! -f "feed.xml" ]; then
+            echo "エラー: feed.xmlが存在しません"
+            exit 1
+          fi
+          
+          # feed.xmlが.gitignoreに含まれているか確認
+          if grep -q "^feed.xml$" .gitignore 2>/dev/null; then
+            echo "警告: feed.xmlが.gitignoreに含まれています。強制的に追加します。"
+            git add -f feed.xml
+          else
+            git add feed.xml
+          fi
+          
           # 変更があるか確認
-          if git diff --quiet feed.xml; then
-            echo "変更はありません"
+          if git diff --staged --quiet; then
+            echo "変更はありません（feed.xmlに差分なし）"
           else
             # 変更をコミット
-            git add feed.xml
             git commit -m "自動更新: RSSフィードを更新 ($(date '+%Y-%m-%d %H:%M:%S UTC'))"
             
-            # プッシュ（リモートURLにトークンを含める）
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
+            # プッシュ（現在のブランチにプッシュ）
+            git push origin HEAD:$CURRENT_BRANCH
             echo "RSSフィードを更新しました"
           fi
