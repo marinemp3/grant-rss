@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Grant Thornton Japan - インサイト</title>
+    <link>https://www.grantthornton.jp/insight/</link>
+    <description>税務・会計・監査に関わる最新のニュース</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 08 Sep 2026 07:06:19 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 07:06:19 +0000</pubDate>
+    <item>
+      <title>カスタマーハラスメント対策の義務化</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/humancapital/202607/</link>
+      <description>【社会保険労務ニュースレター】
+2026年10月施行の法改正により、すべての事業主にカスタマーハラスメント対策が義務付けられます。本稿では、厚生労働省指針をもとに、カスハラの定義や典型例、事業主に求められる体制整備のポイントを解説。あわせて、他企業からの協力要請に応じる努力義務など、実務上の留意点もご紹介します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/humancapital/202607/</guid>
+      <category>社会保険労務ニュースレター</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_consulting_adobestock_136456740.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Documentation Preservation Regime for Specified Related Party Transactions</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202607/</link>
+      <description>【JAPAN TAX BULLETIN】
+Japan has introduced a new documentation preservation regime applicable to specified related-party transactions undertaken in fiscal years beginning on or after 1 April 2026. The provisions in the regime requires taxpayers to obtain or prepare and preserve supplementary documentation where the records already maintained for a covered related-party transaction do not contain the prescribed information concerning the transaction and the calculation of the consideration.</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202607/</guid>
+      <category>JAPAN TAX BULLETIN</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_check_adobestock_257619893.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>アーンアウト条項付き株式譲渡契約における調整金の税務実務と最新動向</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202607/</link>
+      <description>【ADVISORY INSIGHTS M&amp;A税務】
+M&amp;Aで活用されるアーンアウト条項において、事後的に授受される調整金の税務上の取扱いは、売主（個人）の税引後手取額に重大な影響を与えます。本稿では、最新の国税不服審判所裁決（令和7年4月21日）を含む過去の重要事例を踏まえ、所得区分ごとに判断基準や実務上の留意点について整理し解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202607/</guid>
+      <category>ADVISORY INSIGHTS M&amp;A税務</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_1038634272.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「企業グループ間の取引に係る書類保存の特例」徹底解説！</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/corporate-tax/202607/</link>
+      <description>【【法人税務】今知っておきたい税のポイント】
+令和8年度税制改正で創設された「企業グループ間の取引に係る書類保存の特例」。 本特例の対象となる要件や、従来の保存義務からの変更点を分かりやすく紐解きます。グループ企業を擁する財務・経理部門の皆様に向けて、書類管理の重複を解消し、グループ全体のガバナンス強化と業務効率化を両立させるための具体的な実務対応ポイントを徹底解説します。 移転価格税制のローカルファイルとの関係性や違い、既存資料を無駄にしないための流用実務のポイントについてもあわせて解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/corporate-tax/202607/</guid>
+      <category>【法人税務】今知っておきたい税のポイント</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/589658_ilustration/589x658_shutterstock_2604697997.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>コーポレート・ガバナンスと日本復活への思い</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/ex/202607/</link>
+      <description>【太陽グラントソントンエグゼクティブ・ニュース】
+企業経営管理のガイドラインとなるコーポレートガバナンス・コード（企業統治指針）が改訂されました（2026年7月21日施行）。同コードは2015年に安倍首相の下で導入され、上場会社では独立社外取締役を含む取締役会が客観性、透明性のある手続きにより、最適な社長を選任することがより明確に求められるようになりました。今回は企業法務に精通された牛島信弁護士に、コーポレート・ガバナンスの役割について解説して頂きます。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ex/202607/</guid>
+      <category>太陽グラントソントンエグゼクティブ・ニュース</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_222509931.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>特定暗号資産の譲渡における税務上の留意点</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202608/</link>
+      <description>【今月の経理情報】
+令和8年度税制改正にて、特定暗号資産の所得税の取扱いが総合課税から申告分離課税に改正されました。当該改正によって、今後、暗号資産の譲渡の増加が見込まれますが、ミニマムタックスに留意する必要があります。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202608/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_491009643.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>続・のれんの非償却に関する議論</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/ceo-mr/202608/</link>
+      <description>【マネジメントのための経営財務情報『拝啓社長殿』】
+2026年7月に開催された企業会計基準諮問会議において、「のれんの償却／非償却問題」に関する今後の方向性が示されました。検討の結果、のれんを一定期間にわたり償却する現行の会計処理の枠組みを維持し、のれんの非償却の選択制導入およびのれん償却費の計上区分変更については、これ以上検討を進めないことで合意されています。本稿では、2025年7月の検討開始から今回の合意に至るまでの主な動向を振り返ります。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ceo-mr/202608/</guid>
+      <category>マネジメントのための経営財務情報『拝啓社長殿』</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422__adobestock_489986441.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key Differences Between Accounting and Tax Treatment of Revenue Recognition</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202608/</link>
+      <description>【JAPAN TAX BULLETIN】
+Revenue recognition is a key performance metric affecting financial figures. This article explores examples of differences between accounting and tax treatment in Japan.</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202608/</guid>
+      <category>JAPAN TAX BULLETIN</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422__adobestock_376208810.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>不正調査・ガバナンス編：中国子会社でなぜ不正が起きるのかと予防・早期発見策</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/chinatax/20260819/</link>
+      <description>【中国会計・税務実務ニュースレター】
+近年、日本本社において海外子会社ガバナンスの高度化が重要な経営課題となる中、中国子会社における不正・コンプライアンス違反は、単なる現地管理上の問題にとどまらず、税務、法務、労務、データ管理、さらには企業レピュテーションにも影響波及する及ぼし得る重大な経営リスクとなっています。中国では、公章・契約章・財務章・発票専用章、銀行U盾、発票、ローカルERP、個人情報保護・データ越境規制など、日本本社から実態を把握しにくい実務上の統制ポイントが数多く存在します。そのため、日本本社の経営陣ならびに、法務・財務・内部監査部門においては、中国子会社で不正が起きやすい構造を理解したうえで、現地実務に即した予防・早期発見の仕組みを整備することが重要です。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/chinatax/20260819/</guid>
+      <category>中国会計・税務実務ニュースレター</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_offset_1073289.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>令和8年度税制改正：グローバル・ミニマム課税の主要改正事項 〜 共存システムの適用免除、新たな税額控除等（SBTI）、移行期間CbCRセーフ・ハーバーの延長 〜</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/international/202608/</link>
+      <description>【国際税務ニュースレター】
+令和8年1月、グローバル・ミニマム課税について、独自の代替最低税やCFC税制といった最低課税制度を有する米国等の制度との不調和を解消し、双方を共存させるための国際合意（共存システム：Side-by-Side system: SbS）が成立しました。これに対応する新たな適用免除基準が我が国の税制においても措置され、内国法人の令和8年1月1日以後に開始する対象会計年度について適用されます。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202608/</guid>
+      <category>国際税務ニュースレター</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_213429649.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「大胆な設備投資減税」の全貌と活用術</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/corporate-tax/202608/</link>
+      <description>【【法人税務】今知っておきたい税のポイント】
+令和8年度税制改正で創設された「大胆な設備投資減税」について、設備投資を通じた節税と企業成長を両立させる税制活用のポイントを解説します。優遇税制の具体的な仕組みから、対象資産、申請プロセスなどを分かりやすくお伝えします。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/corporate-tax/202608/</guid>
+      <category>【法人税務】今知っておきたい税のポイント</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/589658_ilustration/589x658_shutterstock_2132585453.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日米中トライアングルのあり方</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/ex/202608/</link>
+      <description>【太陽グラントソントンエグゼクティブ・ニュース】
+1990年代初めのソ連崩壊以来、国際社会は民主主義が主流になると期待されましたが、ロシアによるウクライナ侵略や中国による国際ルール変更の動きなど、先進国にとって想定外の展開が続いています。今回は中国ご出身で国際関係に詳しい東京財団政策研究所の柯隆主席研究員に日米中の関係について分析していただきます。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ex/202608/</guid>
+      <category>太陽グラントソントンエグゼクティブ・ニュース</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_shutterstock_1198234759.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>法人税法施行規則第59条の2の新設 〜関連者間取引の書類整備と実務上の留意点〜</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/international/202609/</link>
+      <description>【国際税務ニュースレター】
+令和8年度税制改正により新設された、関連者間取引に係る書類の整理保存の特例（法人税法施行規則第59条の2）では、すべての青色申告法人に対し、対価の設定方法等を補完する書類の保存が義務付けられます。本稿では、未対応時の青色申告取消リスクに備えるため、主な改正点を整理するとともに、国税庁の事務運営指針に基づく具体的な実務対応を簡潔に解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202609/</guid>
+      <category>国際税務ニュースレター</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_istock-612854434.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>円安が個人の税務に与える影響と留意点</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202609/</link>
+      <description>【今月の経理情報】
+円安は個人が保有する資産の税務にも影響を与えています。例えば円安の影響でドルを保有している個人がドルをユーロに変更したときや、ドルで外国株を購入したときは円に戻さない場合であっても為替差益に注意が必要です。その他にも円安が個人の税務に与える様々な影響を整理し、その留意点をまとめます。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202609/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_213999170.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国におけるオフショア信託個人所得税制度新規について</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/chinatax/20260904/</link>
+      <description>【中国会計・税務実務ニュースレター】
+2026年、財政部・国家税務総局は、オフショア信託に関する個人所得税制度および徴収管理ルールを公表しました。中国居住者が関与するオフショア信託について、財産拠出、運用収益、分配、清算等の各段階における申告・資料提出の枠組みが具体化されています。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/chinatax/20260904/</guid>
+      <category>中国会計・税務実務ニュースレター</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_offset_1073289.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ケースでわかる 遺贈、代襲・数次相続、相続人不存在等の法務と税務</title>
+      <link>https://www.grantthornton.jp/insight/publish/20260908/</link>
+      <description>【出版情報】
+書籍『ケースでわかる 遺贈、代襲・数次相続、相続人不存在等の法務と税務』（弁護士・渡邉健太郎、太陽グラントソントン税理士法人ハイネットワースグループ著）が株式会社税務経理協会より発刊されます。ケース別で自分と似た悩みを見つけやすい。判断に迷う「イレギュラー」な36の相続事例を、法務・税務を横断して実務対応まで解説。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/publish/20260908/</guid>
+      <category>出版情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/589658_ilustration/589x658_2609hn.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ミニマムタックスを考慮したオーナー企業M&amp;Aにおける役員退職金支給の活用</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202605/</link>
+      <description>【ADVISORY INSIGHTS M&amp;A税務】
+</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202605/</guid>
+      <category>ADVISORY INSIGHTS M&amp;A税務</category>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>買収した法人がグループ通算制度の加入時期の特例を適用した場合の留意事項</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202601/</link>
+      <description>【ADVISORY INSIGHTS M&amp;A税務】
+</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202601/</guid>
+      <category>ADVISORY INSIGHTS M&amp;A税務</category>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>令和8年度税制改正：グローバル・ミニマム課税の主要改正事項 〜 共存システムの適用免除、新たな税額控除等（SBTI）、移行期間CbCRセーフ・ハーバーの延長 〜</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/international/202608/</link>
+      <description>【国際税務ニュースレター】
+</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202608/</guid>
+      <category>国際税務ニュースレター</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>グローバル・ミニマム課税におけるセーフ・ハーバー適用上の留意点</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/international/202511/</link>
+      <description>【国際税務ニュースレター】
+</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202511/</guid>
+      <category>国際税務ニュースレター</category>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日米中トライアングルのあり方</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/ex/202608/</link>
+      <description>【太陽グラントソントンエグゼクティブ・ニュース】
+1990年代初めのソ連崩壊以来、国際社会は民主主義が主流になると期待されましたが、ロシアによるウクライナ侵略や中国による国際ルール変更の動きなど、先進国にとって想定外の展開が続いています。今回は中国ご出身で国際関係に詳しい東京財団政策研究所の柯隆主席研究員に日米中の関係について分析していただきます。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ex/202608/</guid>
+      <category>太陽グラントソントンエグゼクティブ・ニュース</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_shutterstock_1198234759.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>円安が個人の税務に与える影響と留意点</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202609/</link>
+      <description>【今月の経理情報】
+円安は個人が保有する資産の税務にも影響を与えています。例えば円安の影響でドルを保有している個人がドルをユーロに変更したときや、ドルで外国株を購入したときは円に戻さない場合であっても為替差益に注意が必要です。その他にも円安が個人の税務に与える様々な影響を整理し、その留意点をまとめます。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202609/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_213999170.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>法人税法施行規則第59条の2の新設 〜関連者間取引の書類整備と実務上の留意点〜</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/international/202609/</link>
+      <description>【国際税務ニュースレター】
+令和8年度税制改正により新設された、関連者間取引に係る書類の整理保存の特例（法人税法施行規則第59条の2）では、すべての青色申告法人に対し、対価の設定方法等を補完する書類の保存が義務付けられます。本稿では、未対応時の青色申告取消リスクに備えるため、主な改正点を整理するとともに、国税庁の事務運営指針に基づく具体的な実務対応を簡潔に解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202609/</guid>
+      <category>国際税務ニュースレター</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_istock-612854434.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
