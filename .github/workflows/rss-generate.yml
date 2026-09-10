@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # keepalive アクションが GitHub API を利用するために必要
 
 jobs:
   generate-rss:
@@ -70,7 +71,18 @@ jobs:
             # 変更をコミット
             git commit -m "自動更新: RSSフィードを更新 ($(date '+%Y-%m-%d %H:%M:%S UTC'))"
             
+            # プッシュ前にリモートの変更を取り込む（競合回避）
+            git pull --rebase origin $CURRENT_BRANCH
+            
             # プッシュ（現在のブランチにプッシュ）
             git push origin HEAD:$CURRENT_BRANCH
             echo "RSSフィードを更新しました"
           fi
+      
+      # 60日間の無効化対策（keepalive）
+      - name: Keepalive（ワークフロー無効化防止）
+        if: always()
+        uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
+        with:
+          COMMIT_MESSAGE: "Keepalive: ワークフロー無効化防止"
+          TIME_ELAPSED_THRESHOLD_IN_DAYS: 50
