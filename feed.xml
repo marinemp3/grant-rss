@@ -7,28 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:17:50 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 06:17:50 +0000</pubDate>
-    <item>
-      <title>カスタマーハラスメント対策の義務化</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/humancapital/202607/</link>
-      <description>【社会保険労務ニュースレター】
-2026年10月施行の法改正により、すべての事業主にカスタマーハラスメント対策が義務付けられます。本稿では、厚生労働省指針をもとに、カスハラの定義や典型例、事業主に求められる体制整備のポイントを解説。あわせて、他企業からの協力要請に応じる努力義務など、実務上の留意点もご紹介します。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/humancapital/202607/</guid>
-      <category>社会保険労務ニュースレター</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_consulting_adobestock_136456740.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Documentation Preservation Regime for Specified Related Party Transactions</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202607/</link>
-      <description>【JAPAN TAX BULLETIN】
-Japan has introduced a new documentation preservation regime applicable to specified related-party transactions undertaken in fiscal years beginning on or after 1 April 2026. The provisions in the regime requires taxpayers to obtain or prepare and preserve supplementary documentation where the records already maintained for a covered related-party transaction do not contain the prescribed information concerning the transaction and the calculation of the consideration.</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202607/</guid>
-      <category>JAPAN TAX BULLETIN</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_check_adobestock_257619893.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 06:18:10 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:18:10 +0000</pubDate>
     <item>
       <title>アーンアウト条項付き株式譲渡契約における調整金の税務実務と最新動向</title>
       <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202607/</link>
@@ -170,13 +150,33 @@ Revenue recognition is a key performance metric affecting financial figures. Thi
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ミニマムタックスを考慮したオーナー企業M&amp;Aにおける役員退職金支給の活用</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202605/</link>
-      <description>【ADVISORY INSIGHTS M&amp;A税務】
+      <title>財務モデリングの基本5－M&amp;Aモデルとプロジェクトファイナンスモデルの違い（後編）</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</link>
+      <description>【ADVISORY INSIGHTS M&amp;Aアドバイザリー】
+プロジェクトファイナンス（PF）における財務モデルの特徴を、M&amp;A等のトランザクションモデルとの比較を通じて解説します。PFモデルは多角的なステークホルダーの共通基盤であり、ノンリコース性を前提としてCFADSやDSCR等の指標をもとに借入可能額（Debt Sizing）や返済パターン（Debt Sculpting）を直接モデル上で算定する点に構造的な違いがあります。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</guid>
+      <category>ADVISORY INSIGHTS M&amp;Aアドバイザリー</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_shutterstock_offset_2150315635.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revisions to Japanese Consumption Tax Transitional Measures under the Qualified Invoice System</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202609/</link>
+      <description>【JAPAN TAX BULLETIN】
+FY2026 JCT Reform Update: Extended 8-Year Transitional Deduction Schedule and Reduced JPY 100M Cap for Non-Registered Supplier Purchases</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202609/</guid>
+      <category>JAPAN TAX BULLETIN</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422__adobestock_489986441.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>法人税法施行規則第59条の2の新設 〜関連者間取引の書類整備と実務上の留意点〜</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/international/202609/</link>
+      <description>【国際税務ニュースレター】
 </description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202605/</guid>
-      <category>ADVISORY INSIGHTS M&amp;A税務</category>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202609/</guid>
+      <category>国際税務ニュースレター</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>買収した法人がグループ通算制度の加入時期の特例を適用した場合の留意事項</title>
@@ -206,16 +206,6 @@ Revenue recognition is a key performance metric affecting financial figures. Thi
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>日米中トライアングルのあり方</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/ex/202608/</link>
-      <description>【太陽グラントソントンエグゼクティブ・ニュース】
-1990年代初めのソ連崩壊以来、国際社会は民主主義が主流になると期待されましたが、ロシアによるウクライナ侵略や中国による国際ルール変更の動きなど、先進国にとって想定外の展開が続いています。今回は中国ご出身で国際関係に詳しい東京財団政策研究所の柯隆主席研究員に日米中の関係について分析していただきます。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ex/202608/</guid>
-      <category>太陽グラントソントンエグゼクティブ・ニュース</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_shutterstock_1198234759.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>円安が個人の税務に与える影響と留意点</title>
       <link>https://www.grantthornton.jp/insight/newsletter/accounting/202609/</link>
       <description>【今月の経理情報】
@@ -234,6 +224,16 @@ Revenue recognition is a key performance metric affecting financial figures. Thi
       <category>国際税務ニュースレター</category>
       <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_istock-612854434.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>財務モデリングの基本5－M&amp;Aモデルとプロジェクトファイナンスモデルの違い（後編）</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</link>
+      <description>【ADVISORY INSIGHTS M&amp;Aアドバイザリー】
+プロジェクトファイナンス（PF）における財務モデルの特徴を、M&amp;A等のトランザクションモデルとの比較を通じて解説します。PFモデルは多角的なステークホルダーの共通基盤であり、ノンリコース性を前提としてCFADSやDSCR等の指標をもとに借入可能額（Debt Sizing）や返済パターン（Debt Sculpting）を直接モデル上で算定する点に構造的な違いがあります。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</guid>
+      <category>ADVISORY INSIGHTS M&amp;Aアドバイザリー</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_shutterstock_offset_2150315635.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
