@@ -7,28 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 06:18:55 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 06:18:55 +0000</pubDate>
-    <item>
-      <title>Key Differences Between Accounting and Tax Treatment of Revenue Recognition</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202608/</link>
-      <description>【JAPAN TAX BULLETIN】
-Revenue recognition is a key performance metric affecting financial figures. This article explores examples of differences between accounting and tax treatment in Japan.</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202608/</guid>
-      <category>JAPAN TAX BULLETIN</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422__adobestock_376208810.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>不正調査・ガバナンス編：中国子会社でなぜ不正が起きるのかと予防・早期発見策</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/chinatax/20260819/</link>
-      <description>【中国会計・税務実務ニュースレター】
-近年、日本本社において海外子会社ガバナンスの高度化が重要な経営課題となる中、中国子会社における不正・コンプライアンス違反は、単なる現地管理上の問題にとどまらず、税務、法務、労務、データ管理、さらには企業レピュテーションにも影響波及する及ぼし得る重大な経営リスクとなっています。中国では、公章・契約章・財務章・発票専用章、銀行U盾、発票、ローカルERP、個人情報保護・データ越境規制など、日本本社から実態を把握しにくい実務上の統制ポイントが数多く存在します。そのため、日本本社の経営陣ならびに、法務・財務・内部監査部門においては、中国子会社で不正が起きやすい構造を理解したうえで、現地実務に即した予防・早期発見の仕組みを整備することが重要です。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/chinatax/20260819/</guid>
-      <category>中国会計・税務実務ニュースレター</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_offset_1073289.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:38 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 12:51:38 +0000</pubDate>
     <item>
       <title>令和8年度税制改正：グローバル・ミニマム課税の主要改正事項 〜 共存システムの適用免除、新たな税額控除等（SBTI）、移行期間CbCRセーフ・ハーバーの延長 〜</title>
       <link>https://www.grantthornton.jp/insight/newsletter/international/202608/</link>
@@ -110,16 +90,6 @@ Revenue recognition is a key performance metric affecting financial figures. Thi
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Consumption Tax Adjustment on the Change of Use of Fixed Assets</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202610/</link>
-      <description>【JAPAN TAX BULLETIN】
-Under Japan’s consumption tax rules, input tax credits for "adjustable fixed assets" are credited upon acquisition. However, if the use of assets changes within three years, an adjustment is required.</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202610/</guid>
-      <category>JAPAN TAX BULLETIN</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_222509931.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Revisions to Japanese Consumption Tax Transitional Measures under the Qualified Invoice System</title>
       <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202609/</link>
       <description>【JAPAN TAX BULLETIN】
@@ -160,6 +130,16 @@ FY2026 JCT Reform Update: Extended 8-Year Transitional Deduction Schedule and Re
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Consumption Tax Adjustment on the Change of Use of Fixed Assets</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202610/</link>
+      <description>【JAPAN TAX BULLETIN】
+Under Japan’s consumption tax rules, input tax credits for "adjustable fixed assets" are credited upon acquisition. However, if the use of assets changes within three years, an adjustment is required.</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/tax-bulletin/202610/</guid>
+      <category>JAPAN TAX BULLETIN</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_222509931.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>高市政権の成長戦略 ～「強い経済」の構築と「責任ある積極財政」という二兎を追う～</title>
       <link>https://www.grantthornton.jp/insight/newsletter/ex/202610/</link>
       <description>【太陽グラントソントンエグゼクティブ・ニュース】
@@ -170,22 +150,33 @@ FY2026 JCT Reform Update: Extended 8-Year Transitional Deduction Schedule and Re
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>財務モデリングの基本5－M&amp;Aモデルとプロジェクトファイナンスモデルの違い（後編）</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</link>
-      <description>【ADVISORY INSIGHTS M&amp;Aアドバイザリー】
-</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</guid>
-      <category>ADVISORY INSIGHTS M&amp;Aアドバイザリー</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <title>インボイス経過措置の見直しと2026年10月からの実務対応</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202610/</link>
+      <description>【今月の経理情報】
+適格請求書発行事業者以外の事業者からの課税仕入れに適用される経過措置について、2026年10月1日から仕入税額の控除割合が80％から70％に引き下げられました。本稿では、今回の引き下げに伴う実務上の留意点について整理します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202610/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_308985886.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>買収した法人がグループ通算制度の加入時期の特例を適用した場合の留意事項</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202601/</link>
+      <title>資産管理会社を買収する場合の欠損等法人の規定に関する留意点</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202610/</link>
       <description>【ADVISORY INSIGHTS M&amp;A税務】
-</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202601/</guid>
+繰越欠損金は将来の課税所得を減らし税負担を圧縮できるため、M&amp;Aの企業価値評価やストラクチャー設計において重要な意味を持ちます。しかし、欠損金取得目的の租税回避を防ぐため、法人税法57条の2により「欠損等法人の欠損金の繰越しの不適用」規定が設けられています。本稿ではこの基本概要に加え、買収対象グループに資産管理会社が含まれる場合の実務上の留意点と具体的対処法を事例とともに解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202610/</guid>
       <category>ADVISORY INSIGHTS M&amp;A税務</category>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_businessteam_adobestock_381681511.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>還暦過ぎてサラリーマンから落語の道へ</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/ex/202609/</link>
+      <description>【太陽グラントソントンエグゼクティブ・ニュース】
+</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ex/202609/</guid>
+      <category>太陽グラントソントンエグゼクティブ・ニュース</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>法人税法施行規則第59条の2の新設 〜関連者間取引の書類整備と実務上の留意点〜</title>
@@ -197,6 +188,15 @@ FY2026 JCT Reform Update: Extended 8-Year Transitional Deduction Schedule and Re
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>財務モデリングの基本5－M&amp;Aモデルとプロジェクトファイナンスモデルの違い（後編）</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</link>
+      <description>【ADVISORY INSIGHTS M&amp;Aアドバイザリー】
+</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-advisory/202609/</guid>
+      <category>ADVISORY INSIGHTS M&amp;Aアドバイザリー</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>グローバル・ミニマム課税におけるセーフ・ハーバー適用上の留意点</title>
       <link>https://www.grantthornton.jp/insight/newsletter/international/202511/</link>
       <description>【国際税務ニュースレター】
@@ -204,26 +204,6 @@ FY2026 JCT Reform Update: Extended 8-Year Transitional Deduction Schedule and Re
       <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202511/</guid>
       <category>国際税務ニュースレター</category>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>還暦過ぎてサラリーマンから落語の道へ</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/ex/202609/</link>
-      <description>【太陽グラントソントンエグゼクティブ・ニュース】
-今月は、大手銀行などを経て、還暦を機にプロの落語家を目指すことになった参遊亭遊助氏をご紹介します。全く畑違いの職業を選ばれた遊助氏に、人生100年時代を迎えての第二の人生の過ごし方などを語っていただきます。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/ex/202609/</guid>
-      <category>太陽グラントソントンエグゼクティブ・ニュース</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_2065127625.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>海外子会社税務ガバナンス～諸外国における繰越欠損金～</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/international/202610/</link>
-      <description>【国際税務ニュースレター】
-多国籍企業グループが直面するグローバル税務コンプライアンスに対応するためには、本社主導による税務ガバナンスの構築が強く求められます。海外子会社税務ガバナンスを推し進める上では、各国の基本税制の理解はその一歩となります。本稿では、日系企業の進出先となるケースの多い諸外国を中心に、タックスプランニングや実効税率（ETR）管理において重要な「諸外国の繰越欠損金の原則的な取り扱い」について整理します。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/international/202610/</guid>
-      <category>国際税務ニュースレター</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_842799559.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>高市政権の成長戦略 ～「強い経済」の構築と「責任ある積極財政」という二兎を追う～</title>
@@ -235,6 +215,26 @@ FY2026 JCT Reform Update: Extended 8-Year Transitional Deduction Schedule and Re
       <category>太陽グラントソントンエグゼクティブ・ニュース</category>
       <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422__adobestock_478159369.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>インボイス経過措置の見直しと2026年10月からの実務対応</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202610/</link>
+      <description>【今月の経理情報】
+適格請求書発行事業者以外の事業者からの課税仕入れに適用される経過措置について、2026年10月1日から仕入税額の控除割合が80％から70％に引き下げられました。本稿では、今回の引き下げに伴う実務上の留意点について整理します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202610/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_308985886.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>資産管理会社を買収する場合の欠損等法人の規定に関する留意点</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202610/</link>
+      <description>【ADVISORY INSIGHTS M&amp;A税務】
+繰越欠損金は将来の課税所得を減らし税負担を圧縮できるため、M&amp;Aの企業価値評価やストラクチャー設計において重要な意味を持ちます。しかし、欠損金取得目的の租税回避を防ぐため、法人税法57条の2により「欠損等法人の欠損金の繰越しの不適用」規定が設けられています。本稿ではこの基本概要に加え、買収対象グループに資産管理会社が含まれる場合の実務上の留意点と具体的対処法を事例とともに解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202610/</guid>
+      <category>ADVISORY INSIGHTS M&amp;A税務</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_businessteam_adobestock_381681511.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
