@@ -7,18 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:16:02 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 11:16:02 +0000</pubDate>
-    <item>
-      <title>円安が個人の税務に与える影響と留意点</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202609/</link>
-      <description>【今月の経理情報】
-円安は個人が保有する資産の税務にも影響を与えています。例えば円安の影響でドルを保有している個人がドルをユーロに変更したときや、ドルで外国株を購入したときは円に戻さない場合であっても為替差益に注意が必要です。その他にも円安が個人の税務に与える様々な影響を整理し、その留意点をまとめます。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202609/</guid>
-      <category>今月の経理情報</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_213999170.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 12:25:43 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 12:25:43 +0000</pubDate>
     <item>
       <title>中国におけるオフショア信託個人所得税制度新規について</title>
       <link>https://www.grantthornton.jp/insight/newsletter/chinatax/20260904/</link>
@@ -170,14 +160,14 @@ Under Japan’s consumption tax rules, input tax credits for "adjustable fixed a
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>インボイス経過措置の見直しと2026年10月からの実務対応</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202610/</link>
-      <description>【今月の経理情報】
-適格請求書発行事業者以外の事業者からの課税仕入れに適用される経過措置について、2026年10月1日から仕入税額の控除割合が80％から70％に引き下げられました。本稿では、今回の引き下げに伴う実務上の留意点について整理します。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202610/</guid>
-      <category>今月の経理情報</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_308985886.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <title>大口の法人株主がいる上場企業を株式公開買付（TOB）で買収する場合の自己株式取得の活用について</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/2026102/</link>
+      <description>【ADVISORY INSIGHTS M&amp;A税務】
+近年、株式公開買付（TOB）による上場企業の買収・非公開化が増えています。一般的には、買手がTOBで3分の2超の株式を確保した後、株式併合等により、TOBに応募しなかった少数株主をスクイーズアウト（強制排除）し、100％子会社化・非上場化します。一方、親会社やオーナー家の資産管理会社など大口の法人株主がいる場合、その株主をTOB・スクイーズアウトの対象とせず、別途その株主から自己株式を取得するケースも見られます。本稿では、このストラクチャーの税務上の取扱いを解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/2026102/</guid>
+      <category>ADVISORY INSIGHTS M&amp;A税務</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_164655904.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>資産管理会社を買収する場合の欠損等法人の規定に関する留意点</title>
@@ -198,6 +188,16 @@ Under Japan’s consumption tax rules, input tax credits for "adjustable fixed a
       <category>マネジメントのための経営財務情報『拝啓社長殿』</category>
       <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_499625393.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大口の法人株主がいる上場企業を株式公開買付（TOB）で買収する場合の自己株式取得の活用について</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/2026102/</link>
+      <description>【ADVISORY INSIGHTS M&amp;A税務】
+近年、株式公開買付（TOB）による上場企業の買収・非公開化が増えています。一般的には、買手がTOBで3分の2超の株式を確保した後、株式併合等により、TOBに応募しなかった少数株主をスクイーズアウト（強制排除）し、100％子会社化・非上場化します。一方、親会社やオーナー家の資産管理会社など大口の法人株主がいる場合、その株主をTOB・スクイーズアウトの対象とせず、別途その株主から自己株式を取得するケースも見られます。本稿では、このストラクチャーの税務上の取扱いを解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/2026102/</guid>
+      <category>ADVISORY INSIGHTS M&amp;A税務</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_164655904.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
