@@ -7,18 +7,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:25:43 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 12:25:43 +0000</pubDate>
-    <item>
-      <title>中国におけるオフショア信託個人所得税制度新規について</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/chinatax/20260904/</link>
-      <description>【中国会計・税務実務ニュースレター】
-2026年、財政部・国家税務総局は、オフショア信託に関する個人所得税制度および徴収管理ルールを公表しました。中国居住者が関与するオフショア信託について、財産拠出、運用収益、分配、清算等の各段階における申告・資料提出の枠組みが具体化されています。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/chinatax/20260904/</guid>
-      <category>中国会計・税務実務ニュースレター</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_offset_1073289.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 13:57:39 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 13:57:39 +0000</pubDate>
     <item>
       <title>ケースでわかる 遺贈、代襲・数次相続、相続人不存在等の法務と税務</title>
       <link>https://www.grantthornton.jp/insight/publish/20260908/</link>
@@ -170,14 +160,14 @@ Under Japan’s consumption tax rules, input tax credits for "adjustable fixed a
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>資産管理会社を買収する場合の欠損等法人の規定に関する留意点</title>
-      <link>https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202610/</link>
-      <description>【ADVISORY INSIGHTS M&amp;A税務】
-繰越欠損金は将来の課税所得を減らし税負担を圧縮できるため、M&amp;Aの企業価値評価やストラクチャー設計において重要な意味を持ちます。しかし、欠損金取得目的の租税回避を防ぐため、法人税法57条の2により「欠損等法人の欠損金の繰越しの不適用」規定が設けられています。本稿ではこの基本概要に加え、買収対象グループに資産管理会社が含まれる場合の実務上の留意点と具体的対処法を事例とともに解説します。</description>
-      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/advisory/ma-tax/202610/</guid>
-      <category>ADVISORY INSIGHTS M&amp;A税務</category>
-      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_businessteam_adobestock_381681511.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <title>貸付用不動産に係る相続税評価の見直し</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202611/</link>
+      <description>【今月の経理情報】
+2027年1月1日より貸付用不動産に係る相続税の評価方法が変更される予定です。不動産が相続財産の大きな割合を占める場合も多いため、改正内容の把握が重要となります。本稿では、現行・改正後の評価方法の相違点を解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202611/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_300688527.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI導入を「成果」につなげる5つの領域と5つのステップ</title>
@@ -198,6 +188,16 @@ Under Japan’s consumption tax rules, input tax credits for "adjustable fixed a
       <category>ADVISORY INSIGHTS M&amp;A税務</category>
       <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_164655904.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>貸付用不動産に係る相続税評価の見直し</title>
+      <link>https://www.grantthornton.jp/insight/newsletter/accounting/202611/</link>
+      <description>【今月の経理情報】
+2027年1月1日より貸付用不動産に係る相続税の評価方法が変更される予定です。不動産が相続財産の大きな割合を占める場合も多いため、改正内容の把握が重要となります。本稿では、現行・改正後の評価方法の相違点を解説します。</description>
+      <guid isPermaLink="true">https://www.grantthornton.jp/insight/newsletter/accounting/202611/</guid>
+      <category>今月の経理情報</category>
+      <enclosure url="https://www.grantthornton.jp/cdn-cgi/image/format=auto/globalassets/1.-member-firms/japan-2/medias/image/464422_ilustration/464422_adobestock_300688527.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
